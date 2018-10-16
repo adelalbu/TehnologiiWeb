@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl" ?>
+
+<superheroMovies>
+    <movies >
+        <name>Captain America</name>
+        <details>
+            <country>USA</country>
+            <relase_year>1944</relase_year>
+            <runtime>244 min</runtime>
+        </details>
+        <director>Elmer Clifton</director>
+        
+     </movies>
+     
+    <movies >
+        <name>X-Men</name>
+        <details>
+            <country>USA</country>
+            <relase_year>2000</relase_year>
+            <runtime>104 min</runtime>
+        </details>
+        <director>Bryan Singer</director>
+        
+     </movies>
+
+    <movies >
+        <name>Spider-Man</name>
+        <details>
+            <country>USA</country>
+            <relase_year>2002</relase_year>
+            <runtime>121 min</runtime>
+        </details>
+        <director>Sam Raimi</director>
+        
+     </movies>
+
+   <movies >
+        <name>Hulk</name>
+        <details>
+            <country>USA</country>
+            <relase_year>2003</relase_year>
+            <runtime>138 min</runtime>
+        </details>
+        <director>Ang Lee</director>
+        
+     </movies>
+
+   <movies >
+        <name>Spider-Man 2</name>
+        <details>
+            <country>USA</country>
+            <relase_year>2004</relase_year>
+            <runtime>127 min</runtime>
+        </details>
+        <director>Sam Raimi</director>
+        
+     </movies>
+
+    <movies >
+        <name>Fantastic Four</name>
+        <details>
+            <country>USA, Germany</country>
+            <relase_year>2005</relase_year>
+            <runtime>106 min</runtime>
+        </details>
+        <director>Tim Story</director>
+        
+     </movies>
+
+    <movies >
+        <name>Iron Man</name>
+        <details>
+            <country>USA</country>
+            <relase_year>2008</relase_year>
+            <runtime>126 min</runtime>
+        </details>
+        <director>Jon Favreau</director>
+        
+     </movies>
+
+  <movies >
+        <name>Thor</name>
+        <details>
+            <country>USA</country>
+            <relase_year>2011</relase_year>
+            <runtime>115 min</runtime>
+        </details>
+        <director>Kenneth Branagh</director>
+        
+     </movies>
+
+  <movies >
+        <name>The Avengers</name>
+        <details>
+            <country>USA</country>
+            <relase_year>2012</relase_year>
+            <runtime>143 min</runtime>
+        </details>
+        <director>Joss Whedon</director>
+        
+     </movies>
+
+  <movies >
+        <name>Deadpool</name>
+        <details>
+            <country>USA</country>
+            <relase_year>2016</relase_year>
+            <runtime>108 min</runtime>
+        </details>
+        <director>Tim Miller</director>
+        
+     </movies>
+
+
+</superheroMovies>
